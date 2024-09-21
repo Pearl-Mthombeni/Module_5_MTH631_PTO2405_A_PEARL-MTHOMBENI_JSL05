@@ -1,6 +1,6 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #3a0f50; /* Dark purple background */
+    background-color: #3a0e51; /* Dark purple background */
     color: #fff;
     text-align: center;
     margin: 0;
@@ -17,7 +17,7 @@ h1 {
 .playlist {
     margin: 20px;
     padding: 20px; /* Increased padding */
-    background-color: #4c3cb3; /* Purple background for playlists */
+    background-color: #b33c93; /* Pink background for playlists */
     display: inline-block;
     border-radius: 10px; /* Rounded corners */
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Box shadow for playlists */
